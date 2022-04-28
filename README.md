@@ -1,16 +1,12 @@
-### Hi there 👋
+# SOBRE MIM🙋‍♀️
 
-<!--
-**IzabelyBrumR/IzabelyBrumR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Izabely Brum Rodrigues, nasci em Santa Maria no dia 01 de novembro de 2006, mas fui criada na cidade de São Sepé
+ Me mudei pra Santa Maria após passar no Colégio Técnico Industrial de Santa Maria, com técnico em informática para internet.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Meus Hobbies
+ 
+ * Eu gosto de ler (leio raramente, mas gosto de ler)
+ * Viajar
+ * Praticar esportes (eu gosto, não significa que eu jogue bem)
+ * Dormir
+ * Sair com meus amigos
