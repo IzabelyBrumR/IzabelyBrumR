@@ -65,4 +65,4 @@ Estilos músicais   |  O quanto eu gosto
 
    Aristóteles
 
- ![gif](https://i.pinimg.com/originals/d9/cd/51/d9cd512e677a7d9a73fbcddfc28f3a0d.gif)
+ ![gif](https://i.pinimg.com/originals/e4/97/80/e4978058d222b1de099d86004119705a.gif)
