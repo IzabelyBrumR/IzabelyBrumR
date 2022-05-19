@@ -45,19 +45,23 @@
  * [Twitter](https://twitter.com/IzaBrumR)
  * [Gmail](izabrumrodrigues@gmail.com)
 
-Estilos músicais | O quanto eu gosto
------------------|------------------
-   Funk          |10
-   Sertanejo     |10
-   Rock          |8
-   Pop           |10
-   Pagode        |9
-   Rap           |8
+# Minha opinião sobre os estilos musicais🎧
 
-# Fato curioso
- ###Depois da morte de Leonardo da Vinci, a Mona Lisa foi usada como decoração do banheiro do Rei Francisco I, da França.
+Estilos músicais   |  O quanto eu gosto
+-------------------|------------------
+   Funk            |10
+   Sertanejo       |10
+   Rock            |8
+   Pop             |10
+   Pagode          |9
+   Rap             |8
 
-# Frase motivacional
- ###"Conhecer a si mesmo é o começo de toda sabedoria."
+# Fato curioso🔍
+    Depois da morte de Leonardo da Vinci, a Mona Lisa foi usada como decoração do banheiro do Rei Francisco I, da França.
 
-####Aristóteles
+# Frase motivacional🎈
+    "Conhecer a si mesmo é o começo de toda sabedoria."
+
+   Aristóteles
+
+ ![gif](https://pin.it/18gL1un)
