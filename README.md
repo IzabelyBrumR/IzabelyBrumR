@@ -57,11 +57,12 @@ Estilos músicais   |  O quanto eu gosto
    Rap             |8
 
 # Fato curioso🔍
-    Depois da morte de Leonardo da Vinci, a Mona Lisa foi usada como decoração do banheiro do Rei Francisco I, da França.
+    Depois da morte de Leonardo da Vinci, a Mona Lisa foi usada como 
+    decoração do banheiro do Rei Francisco I, da França.
 
 # Frase motivacional🎈
     "Conhecer a si mesmo é o começo de toda sabedoria."
 
    Aristóteles
 
- ![gif](https://pin.it/18gL1un)
+ ![gif](https://i.pinimg.com/originals/d9/cd/51/d9cd512e677a7d9a73fbcddfc28f3a0d.gif)
