@@ -62,7 +62,8 @@ Estilos músicais   |  O quanto eu gosto
 
 # Frase motivacional🎈
     "Conhecer a si mesmo é o começo de toda sabedoria."
+Aristóteles
 
-   Aristóteles
+
 
  ![gif](https://i.pinimg.com/originals/e4/97/80/e4978058d222b1de099d86004119705a.gif)
