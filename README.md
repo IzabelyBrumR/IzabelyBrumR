@@ -41,7 +41,7 @@
 
 # Como me encontrar🤳
 
- * [Instagram](https://www.instagram.com/izabelybrum/)
+ * [Instagram](https://www.instagram.com/izabrumr/)
  * [Twitter](https://twitter.com/IzaBrumR)
  * [Gmail](izabrumrodrigues@gmail.com)
 
